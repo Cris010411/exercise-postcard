@@ -1,0 +1,27 @@
+.banner{
+    display: flex;
+    justify-content: space-between
+}
+.textoprinc{
+    padding-right: 10px;
+}
+.imagen{
+    height: 100px;
+    width: 100px;
+}
+.content{
+    display: flex;
+    justify-content: space-evenly
+}
+.textgeneral{
+margin-top: 20px;
+margin-left: 10px;
+}
+.input1{
+    margin-top: 10px;
+
+}
+.button{
+    margin-top: 2px;
+    margin-left: 35%;
+}
